@@ -1,16 +1,28 @@
-## Hi there 👋
+# Portfólio Pessoal
 
-<!--
-**JoseFPereira/JoseFPereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Olá!
+Este repositório contém meu portfólio pessoal, criado para apresentar
+meus projetos e minhas habilidades como estudante de Engenharia de Software.
 
-Here are some ideas to get you started:
+## 🎯 Objetivo
+Utilizar este portfólio como apoio na busca por uma oportunidade de estágio
+na área de desenvolvimento de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias utilizadas
+- HTML
+- CSS
+- Python
+
+## 🖥️ Acesse o projeto
+https://JoseFPereira.github.io/portfolio/
+
+## ▶️ Como executar localmente
+1. Faça o download ou clone este repositório
+2. Abra o arquivo `index.html` no navegador
+
+## 📌 Status do projeto
+Em desenvolvimento 🚧
+
+## ✍️ Autor
+José Pereira
+
