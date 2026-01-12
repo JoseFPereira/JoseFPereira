@@ -14,7 +14,7 @@ onde eu possa aplicar e evoluir meus conhecimentos técnicos.
 - Python
 
 ##  Acesse o projeto
-https://JoseFPereira.github.io/portfolio/
+https://JoseFPereira.github.io/JoseFPereira/
 
 ##  Como executar localmente
 1. Faça o download ou clone este repositório
