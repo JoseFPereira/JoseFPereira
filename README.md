@@ -5,8 +5,8 @@ Este repositório contém meu portfólio pessoal, criado para apresentar
 meus projetos e minhas habilidades como estudante de Engenharia de Software.
 
 ##  Objetivo
-Utilizar este portfólio como apoio na busca por uma oportunidade de estágio
-na área de desenvolvimento de software.
+Busco uma oportunidade de estágio na área de desenvolvimento de software,
+onde eu possa aplicar e evoluir meus conhecimentos técnicos.
 
 ##  Tecnologias utilizadas
 - HTML
